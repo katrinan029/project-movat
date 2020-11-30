@@ -2,23 +2,26 @@
 Project Movat explores the obesity epidemic in the United States. This study uses county-level data to look for relationships in data on seven indicators that can be theoretically linked to obesity rates in order to attempt to predict how obesity rates vary bsed on these indicators. 
 
 ## Table of Contents
-* [BACKGROUND](#background)
-* [SCOPE AND LIMITATIONS](#scope-and-limitations)
+* [BACKGROUND](#background)(#scope-and-limitations)
 * [METHODOLOGY](#methodology)
 * [RESULTS AND DISCUSSION](#results-and-discussion)
 * [CONCLUSIONS AND RECOMMENDATIONS](#conclusions-and-recommendations)
 
 ## BACKGROUND
 The obesity epidemic in the United States is an open secret; and a persistent butt of jokes and internet memes. It has gotten so
-bad that American food companies have ended up up exporting this health crisis to developing nations in Asia. Wth the advent of government-subsidized health insurance and the costsassociated with comorbidities exacerbated by the condition, obesity can no longer be simply dismissed as merely a personal problem; it is now imperative to treat it as a public-health issue
+bad that American food companies have ended up up exporting this health crisis to developing nations in Asia. Wth the advent of government-subsidized health insurance and the costsassociated with comorbidities exacerbated by the condition, obesity can no longer be simply dismissed as merely a personal problem; it is now imperative to treat it as a public-health issue. Based on a series of discussions about the existing data sources, the project focused on seven variables as predictors for obesity rates at the county level: 
+1. median county income: the income of the 50th percentile in a given county. 
+2. percent of adults with access to exercise oppurtunities: 
+3. percent of ddults who are physically inactive
  
-## SCOPE AND LIMITATIONS
+* SCOPE AND LIMITATIONS
+
 
 ## METHODOLOGY
 * THE MULTIPLE REGRESSION METHOD
-Multiple linear regression is an excellent exploratory method for determining the existence and intensity of relationships a criterion variable shares with several predictor variables. At its fface, a multiple regression can explain
-*DATA COLLECTION
-*PLOTTING INTERACTIONS
+Multiple linear regression is an excellent exploratory method for determining the existence and intensity of relationships a criterion variable shares with several predictor variables. At its face, a multiple regression can explain the sources of variability in a dataset; and the contributions of each source to pverall variability; as well as an estimate for predicted changes in the criterion based on changes in any single predictor. 
+* DATA COLLECTION
+* PLOTTING INTERACTIONS
 
 
 ## RESULTS AND DISCUSSION
