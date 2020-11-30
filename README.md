@@ -9,12 +9,21 @@ Project Movat explores the obesity epidemic in the United States. This study use
 
 ## BACKGROUND
 The obesity epidemic in the United States is an open secret; and a persistent butt of jokes and internet memes. It has gotten so
-bad that American food companies have ended up up exporting this health crisis to developing nations in Asia. Wth the advent of government-subsidized health insurance and the costsassociated with comorbidities exacerbated by the condition, obesity can no longer be simply dismissed as merely a personal problem; it is now imperative to treat it as a public-health issue. Based on a series of discussions about the existing data sources, the project focused on seven variables as predictors for obesity rates at the county level: 
+bad that American food companies have ended up up exporting this health crisis to developing nations in Asia. Wth the advent of government-subsidized health insurance and the costsassociated with comorbidities exacerbated by the condition, obesity can no longer be simply dismissed as merely a personal problem; it is now imperative to treat it as a public-health issue. Based on a series of discussions about the existing data sources, the project focused on six variables as predictors for obesity rates at the county level: 
 1. median county income: the income of the 50th percentile in a given county. 
 2. percent of adults with access to exercise oppurtunities: 
-3. percent of ddults who are physically inactive
+3. percent of ddults who are physically inactive:
+4. high school graduation rate:
+5. Primary care physician rate: 
+6. Unemployment rate:
  
 * SCOPE AND LIMITATIONS
+In using the above variables to maodel obsity data in the United States, the Movat team necesarilly had to make certain assumptions: 
+a.) the predictors of interest had direct and consistent relationships with the criterion variable.
+b.) The predictors of interest varired sufficiently enough to make their relationships with the criterion meaningful. 
+c.) that county-level data would be a valid proxyfor individual data that wasn't available. 
+d.) that the variables abve would be valid representations of the phenomena that they were being used as proxies for (e,g. BMI classification for obesity rates, high school graduation rate for education, etc.)
+e.) that relationshps with respect to statistical variability point to valid causal relationships
 
 
 ## METHODOLOGY
