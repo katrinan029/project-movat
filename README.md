@@ -19,14 +19,19 @@ bad that American food companies have ended up up exporting this health crisis t
 
 ## METHODOLOGY
 * THE MULTIPLE REGRESSION METHOD
-Multiple linear regression is an excellent exploratory method for determining the existence and intensity of relationships a criterion variable shares with several predictor variables. At its face, a multiple regression can explain the sources of variability in a dataset; and the contributions of each source to pverall variability; as well as an estimate for predicted changes in the criterion based on changes in any single predictor. 
+Multiple linear regression is an excellent exploratory method for determining the existence and intensity of relationships a criterion variable shares with several predictor variables. At its face, a multiple regression can explain the sources of variability in a dataset; and the contributions of each source to pverall variability; as well as an estimate for predicted changes in the criterion based on changes in any single predictor. Multiple regression is particularly useful for producing predictive modelss that can be tested against new data to show how well a model performs.  Project Movat used a Python module called Statsmodels to perform these multipl regressions and concurrent modelling. 
 * DATA COLLECTION
-* PLOTTING INTERACTIONS
+Project Movat relied on existing datasets to perform its analyses. Countyhealth rankings,org provided a good aggregation platform for obtaining county-level data on a varirty of indicators. For other predictors, we usedan Application Program Interface 
+* PLOTTING THE DATA
 
 
 ## RESULTS AND DISCUSSION
+* MODELLING OBESITY RATES
+Preliminarily, predictive models were constructed and refined using a sample of the ~350 counties of the three most populous states in the United States: California, Texas, and Florida 
+When creating predictive models using multiple regressions, it is important to remember that the coefficient of determination, the Multiple R^2 is merely one overall numberrepresenting a model's ability to correctly oredict all criterion values within the dataset. When the first model was tested, all seven proposed predictors were used
+
 * MAIN EFFECTS
-* NOTEAVLE INTERACTION EFFECTS
+* NOTEABLE INTERACTION EFFECTS
 
 ## CONCLUSIONS AND RECOMMENDATIONS
 
