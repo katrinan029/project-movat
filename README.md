@@ -16,11 +16,14 @@ bad that American food companies have ended up up exporting this health crisis t
 
 ## METHODOLOGY
 * THE MULTIPLE REGRESSION METHOD
-* Matplotlib for plotting data
-* API Requests for gathering data
-* Pandas
+Multiple linear regression is an excellent exploratory method for determining the existence and intensity of relationships a criterion variable shares with several predictor variables. At its fface, a multiple regression can explain
+*DATA COLLECTION
+*PLOTTING INTERACTIONS
+
 
 ## RESULTS AND DISCUSSION
+* MAIN EFFECTS
+* NOTEAVLE INTERACTION EFFECTS
 
 ## CONCLUSIONS AND RECOMMENDATIONS
 
@@ -29,4 +32,4 @@ The layman's understanding of the obesity epidemic is an oversimplified abstract
 It may turnout that solutions to the obesity epidemic require a nuanced understanding of the interactions that occur between multiple contributory variables. While access to exercise oppurtunities was found to have consistently robust predictive relationship with obesity rates(around a .5 percentage decrease in obesity for every additional percentage with access to exercise oppurtunities once other predictors are controlled for.), this relationship is also mediated by theinactivity rates of adults ina county. Similar interactions were plotted for various combinations of predictors. 
 
 ### RECOMMENDATIONS
-A goverbment commited to fighting the obesity epidemic may ask how to best combtat this public health crisis. The truth is that Project Movat cannot answer this question definitively. The best that can be said is that this prject has laid out a map for which variables have strong correlations with obesity rates; and that more dedicated researchers might examine whether these correlatons translate to causal relationships. Without proper research on causality, Project Movat will sadly not be helpful in informing public policy.For everything that has been said, any effort to parse conclusions out of regressions that display substantial interaction effects should  approach these findings with appropriate caution. 
+A government commited to fighting the obesity epidemic may ask how to best combtat this public health crisis. The truth is that Project Movat cannot answer this question definitively. The best that can be said is that this prject has laid out a map for which variables have strong correlations with obesity rates; and that more dedicated researchers might examine whether these correlatons translate to causal relationships. Without proper research on causality, Project Movat will sadly not be helpful in informing public policy.For everything that has been said, any effort to parse conclusions out of regressions that display substantial interaction effects should  approach these findings.  with appropriate caution. The same must be said of any effort to use an analysis of county-level data to prescribe interventions for individuals. 
