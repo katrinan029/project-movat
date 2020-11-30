@@ -1,0 +1,355 @@
+FIPS,% Adults with Obesity,% Physically Inactive,% With Access to Exercise Opportunities,Primary Care Physicians Rate,High School Graduation Rate,% Unemployed,County and State,Median Income,State,County
+6001,19,15,100.0,110.0,87.0,3.0,"Alameda County, California",92574, California,Alameda County
+6005,30,25,76.0,67.0,88.0,4.0,"Amador County, California",61198, California,Amador County
+6007,27,22,84.0,61.0,85.0,5.0,"Butte County, California",48443, California,Butte County
+6009,31,31,60.0,44.0,90.0,4.0,"Calaveras County, California",58151, California,Calaveras County
+6011,41,28,75.0,32.0,89.0,12.9,"Colusa County, California",56704, California,Colusa County
+6013,24,16,97.0,103.0,88.0,3.2,"Contra Costa County, California",93712, California,Contra Costa County
+6015,34,25,89.0,62.0,81.0,5.5,"Del Norte County, California",45258, California,Del Norte County
+6017,23,18,90.0,81.0,89.0,3.6,"El Dorado County, California",80582, California,El Dorado County
+6019,31,20,78.0,67.0,81.0,7.5,"Fresno County, California",51261, California,Fresno County
+6021,32,19,66.0,18.0,82.0,6.5,"Glenn County, California",47395, California,Glenn County
+6023,29,17,85.0,69.0,84.0,3.6,"Humboldt County, California",45528, California,Humboldt County
+6025,35,31,69.0,24.0,85.0,18.1,"Imperial County, California",45834, California,Imperial County
+6027,28,27,42.0,111.0,40.0,3.9,"Inyo County, California",52874, California,Inyo County
+6029,32,22,76.0,49.0,86.0,8.0,"Kern County, California",52479, California,Kern County
+6031,29,24,44.0,40.0,80.0,7.7,"Kings County, California",53865, California,Kings County
+6033,25,23,66.0,45.0,78.0,5.2,"Lake County, California",42475, California,Lake County
+6035,41,37,54.0,32.0,86.0,4.8,"Lassen County, California",56362, California,Lassen County
+6037,22,16,98.0,73.0,82.0,4.7,"Los Angeles County, California",64251, California,Los Angeles County
+6039,36,28,70.0,44.0,83.0,7.0,"Madera County, California",52884, California,Madera County
+6041,17,13,97.0,148.0,87.0,2.4,"Marin County, California",110217, California,Marin County
+6043,24,21,49.0,34.0,86.0,5.3,"Mariposa County, California",51199, California,Mariposa County
+6045,32,19,72.0,90.0,84.0,3.9,"Mendocino County, California",49233, California,Mendocino County
+6047,28,22,70.0,44.0,88.0,8.3,"Merced County, California",50129, California,Merced County
+6049,28,25,46.0,68.0,86.0,7.5,"Modoc County, California",45149, California,Modoc County
+6051,25,18,92.0,64.0,36.0,3.8,"Mono County, California",63018, California,Mono County
+6053,28,20,90.0,60.0,85.0,6.3,"Monterey County, California",66676, California,Monterey County
+6055,24,19,90.0,96.0,87.0,2.9,"Napa County, California",84753, California,Napa County
+6057,22,14,81.0,70.0,50.0,3.5,"Nevada County, California",63240, California,Nevada County
+6059,19,15,100.0,97.0,89.0,2.9,"Orange County, California",85398, California,Orange County
+6061,21,15,94.0,124.0,90.0,3.2,"Placer County, California",84357, California,Placer County
+6063,27,24,98.0,85.0,81.0,7.5,"Plumas County, California",53270, California,Plumas County
+6065,27,21,89.0,43.0,89.0,4.4,"Riverside County, California",63948, California,Riverside County
+6067,29,19,97.0,85.0,81.0,3.8,"Sacramento County, California",63902, California,Sacramento County
+6069,32,28,66.0,32.0,90.0,5.1,"San Benito County, California",81977, California,San Benito County
+6071,29,23,84.0,58.0,83.0,4.0,"San Bernardino County, California",60164, California,San Bernardino County
+6073,20,14,97.0,80.0,81.0,3.3,"San Diego County, California",74855, California,San Diego County
+6075,18,14,100.0,154.0,71.0,2.4,"San Francisco County, California",104552, California,San Francisco County
+6077,33,25,86.0,58.0,82.0,6.0,"San Joaquin County, California",61145, California,San Joaquin County
+6079,26,15,88.0,83.0,92.0,2.9,"San Luis Obispo County, California",70699, California,San Luis Obispo County
+6081,21,16,100.0,106.0,88.0,2.2,"San Mateo County, California",113776, California,San Mateo County
+6083,25,16,92.0,76.0,87.0,3.9,"Santa Barbara County, California",71657, California,Santa Barbara County
+6085,19,16,99.0,104.0,85.0,2.6,"Santa Clara County, California",116178, California,Santa Clara County
+6087,19,11,94.0,100.0,82.0,4.9,"Santa Cruz County, California",78041, California,Santa Cruz County
+6089,24,20,78.0,72.0,87.0,4.9,"Shasta County, California",50905, California,Shasta County
+6091,25,29,70.0,33.0,100.0,6.0,"Sierra County, California",48125, California,Sierra County
+6093,32,23,72.0,75.0,80.0,6.7,"Siskiyou County, California",44200, California,Siskiyou County
+6095,30,23,97.0,81.0,81.0,3.9,"Solano County, California",77609, California,Solano County
+6097,22,16,94.0,102.0,81.0,2.7,"Sonoma County, California",76753, California,Sonoma County
+6099,31,24,91.0,66.0,84.0,6.4,"Stanislaus County, California",57387, California,Stanislaus County
+6101,32,25,67.0,76.0,83.0,7.5,"Sutter County, California",56955, California,Sutter County
+6103,28,28,59.0,47.0,88.0,5.7,"Tehama County, California",42899, California,Tehama County
+6105,34,24,88.0,24.0,74.0,5.7,"Trinity County, California",38497, California,Trinity County
+6107,37,27,60.0,42.0,86.0,9.6,"Tulare County, California",47518, California,Tulare County
+6109,33,21,86.0,85.0,86.0,4.6,"Tuolumne County, California",56493, California,Tuolumne County
+6111,21,17,98.0,76.0,86.0,3.8,"Ventura County, California",84017, California,Ventura County
+6113,24,14,96.0,123.0,87.0,4.2,"Yolo County, California",65923, California,Yolo County
+6115,34,34,88.0,25.0,75.0,6.4,"Yuba County, California",52624, California,Yuba County
+12001,27,24,87.0,158.0,84.0,3.3,"Alachua County, Florida",49078, Florida,Alachua County
+12003,38,33,41.0,35.0,81.0,3.4,"Baker County, Florida",61769, Florida,Baker County
+12005,29,31,68.0,54.0,79.0,4.0,"Bay County, Florida",51829, Florida,Bay County
+12007,37,33,65.0,30.0,81.0,3.3,"Bradford County, Florida",46197, Florida,Bradford County
+12009,30,27,88.0,73.0,86.0,3.5,"Brevard County, Florida",54359, Florida,Brevard County
+12011,25,25,97.0,73.0,81.0,3.4,"Broward County, Florida",57333, Florida,Broward County
+12013,36,41,20.0,41.0,81.0,4.1,"Calhoun County, Florida",38609, Florida,Calhoun County
+12015,28,26,81.0,64.0,90.0,4.0,"Charlotte County, Florida",49225, Florida,Charlotte County
+12017,29,35,73.0,51.0,80.0,5.2,"Citrus County, Florida",41424, Florida,Citrus County
+12019,32,28,88.0,49.0,88.0,3.3,"Clay County, Florida",62653, Florida,Clay County
+12021,21,23,91.0,75.0,89.0,3.4,"Collier County, Florida",65675, Florida,Collier County
+12023,36,37,67.0,46.0,71.0,3.7,"Columbia County, Florida",44491, Florida,Columbia County
+12027,32,36,56.0,24.0,65.0,3.8,"DeSoto County, Florida",35057, Florida,DeSoto County
+12029,34,45,35.0,6.0,89.0,4.2,"Dixie County, Florida",38237, Florida,Dixie County
+12031,31,26,92.0,86.0,80.0,3.6,"Duval County, Florida",53473, Florida,Duval County
+12033,29,30,73.0,68.0,80.0,3.5,"Escambia County, Florida",49286, Florida,Escambia County
+12035,26,26,75.0,51.0,81.0,4.0,"Flagler County, Florida",53872, Florida,Flagler County
+12037,36,32,88.0,26.0,79.0,3.5,"Franklin County, Florida",42855, Florida,Franklin County
+12039,43,35,60.0,20.0,53.0,4.6,"Gadsden County, Florida",40922, Florida,Gadsden County
+12041,38,36,22.0,39.0,93.0,3.8,"Gilchrist County, Florida",42357, Florida,Gilchrist County
+12045,33,35,54.0,43.0,85.0,4.4,"Gulf County, Florida",44291, Florida,Gulf County
+12047,41,39,45.0,7.0,68.0,4.2,"Hamilton County, Florida",34583, Florida,Hamilton County
+12049,39,35,60.0,11.0,73.0,5.3,"Hardee County, Florida",37594, Florida,Hardee County
+12051,35,35,62.0,32.0,86.0,6.1,"Hendry County, Florida",40728, Florida,Hendry County
+12053,32,32,82.0,57.0,87.0,4.5,"Hernando County, Florida",46030, Florida,Hernando County
+12055,31,33,81.0,59.0,73.0,4.8,"Highlands County, Florida",37314, Florida,Highlands County
+12057,24,23,94.0,83.0,83.0,3.4,"Hillsborough County, Florida",56137, Florida,Hillsborough County
+12059,33,38,21.0,36.0,70.0,4.0,"Holmes County, Florida",38608, Florida,Holmes County
+12061,26,26,84.0,62.0,88.0,4.3,"Indian River County, Florida",52336, Florida,Indian River County
+12063,37,37,29.0,41.0,73.0,4.0,"Jackson County, Florida",39002, Florida,Jackson County
+12065,34,27,52.0,21.0,56.0,3.7,"Jefferson County, Florida",48173, Florida,Jefferson County
+12067,33,34,14.0,12.0,88.0,3.2,"Lafayette County, Florida",39543, Florida,Lafayette County
+12069,30,29,86.0,70.0,78.0,3.5,"Lake County, Florida",51884, Florida,Lake County
+12071,26,25,88.0,65.0,79.0,3.4,"Lee County, Florida",54691, Florida,Lee County
+12073,31,22,83.0,86.0,90.0,3.3,"Leon County, Florida",51201, Florida,Leon County
+12075,32,37,47.0,17.0,79.0,3.8,"Levy County, Florida",37634, Florida,Levy County
+12079,35,33,50.0,11.0,81.0,3.9,"Madison County, Florida",35509, Florida,Madison County
+12081,27,24,91.0,56.0,82.0,3.4,"Manatee County, Florida",56036, Florida,Manatee County
+12083,30,33,76.0,58.0,77.0,4.3,"Marion County, Florida",43361, Florida,Marion County
+12085,19,23,97.0,66.0,84.0,3.5,"Martin County, Florida",57959, Florida,Martin County
+12086,22,25,98.0,79.0,81.0,3.9,"Miami-Dade County, Florida",48982, Florida,Miami-Dade County
+12087,22,23,100.0,77.0,80.0,2.6,"Monroe County, Florida",67023, Florida,Monroe County
+12089,28,25,72.0,47.0,91.0,3.2,"Nassau County, Florida",66297, Florida,Nassau County
+12091,27,28,75.0,79.0,87.0,2.9,"Okaloosa County, Florida",62048, Florida,Okaloosa County
+12093,33,38,77.0,48.0,72.0,3.7,"Okeechobee County, Florida",40367, Florida,Okeechobee County
+12095,25,25,94.0,87.0,84.0,3.2,"Orange County, Florida",54335, Florida,Orange County
+12097,30,31,78.0,41.0,87.0,3.6,"Osceola County, Florida",50063, Florida,Osceola County
+12099,21,23,94.0,79.0,86.0,3.6,"Palm Beach County, Florida",59943, Florida,Palm Beach County
+12101,32,30,86.0,59.0,82.0,3.8,"Pasco County, Florida",50417, Florida,Pasco County
+12103,25,24,97.0,88.0,83.0,3.3,"Pinellas County, Florida",51454, Florida,Pinellas County
+12105,37,29,79.0,49.0,78.0,4.1,"Polk County, Florida",48500, Florida,Polk County
+12107,39,37,51.0,44.0,72.0,4.8,"Putnam County, Florida",35649, Florida,Putnam County
+12109,23,21,94.0,96.0,90.0,2.9,"St. Johns County, Florida",77323, Florida,St. Johns County
+12111,30,30,78.0,38.0,91.0,4.4,"St. Lucie County, Florida",49373, Florida,St. Lucie County
+12113,30,30,77.0,71.0,87.0,3.3,"Santa Rosa County, Florida",66242, Florida,Santa Rosa County
+12115,21,22,92.0,76.0,86.0,3.4,"Sarasota County, Florida",58644, Florida,Sarasota County
+12117,27,20,91.0,76.0,89.0,3.2,"Seminole County, Florida",63760, Florida,Seminole County
+12119,29,22,82.0,38.0,85.0,5.1,"Sumter County, Florida",55228, Florida,Sumter County
+12121,38,37,49.0,16.0,93.0,3.7,"Suwannee County, Florida",42686, Florida,Suwannee County
+12123,35,35,68.0,37.0,70.0,3.8,"Taylor County, Florida",36934, Florida,Taylor County
+12125,37,32,22.0,26.0,81.0,3.4,"Union County, Florida",41770, Florida,Union County
+12127,30,29,89.0,69.0,77.0,3.7,"Volusia County, Florida",46760, Florida,Volusia County
+12129,40,30,84.0,31.0,88.0,3.1,"Wakulla County, Florida",62778, Florida,Wakulla County
+12131,32,32,66.0,53.0,83.0,3.1,"Walton County, Florida",53785, Florida,Walton County
+12133,38,36,33.0,24.0,78.0,3.8,"Washington County, Florida",37188, Florida,Washington County
+48001,37,23,26.0,35.0,97.0,3.1,"Anderson County, Texas",43355, Texas,Anderson County
+48003,35,26,94.0,51.0,96.0,2.4,"Andrews County, Texas",74233, Texas,Andrews County
+48005,41,35,65.0,59.0,92.0,4.4,"Angelina County, Texas",47714, Texas,Angelina County
+48007,41,36,81.0,35.0,89.0,5.7,"Aransas County, Texas",44865, Texas,Aransas County
+48011,29,23,3.0,0.0,100.0,2.8,"Armstrong County, Texas",66563, Texas,Armstrong County
+48013,37,32,41.0,16.0,93.0,3.8,"Atascosa County, Texas",55265, Texas,Atascosa County
+48015,32,29,26.0,20.0,97.0,3.6,"Austin County, Texas",65365, Texas,Austin County
+48017,31,25,82.0,42.0,100.0,4.4,"Bailey County, Texas",46485, Texas,Bailey County
+48019,30,28,58.0,27.0,92.0,3.4,"Bandera County, Texas",53683, Texas,Bandera County
+48021,38,24,48.0,27.0,94.0,3.4,"Bastrop County, Texas",62941, Texas,Bastrop County
+48023,27,25,86.0,140.0,98.0,3.3,"Baylor County, Texas",40750, Texas,Baylor County
+48025,31,22,51.0,21.0,89.0,5.1,"Bee County, Texas",42032, Texas,Bee County
+48027,35,23,78.0,82.0,75.0,4.1,"Bell County, Texas",54184, Texas,Bell County
+48029,29,23,86.0,74.0,87.0,3.3,"Bexar County, Texas",55456, Texas,Bexar County
+48031,29,28,50.0,43.0,97.0,2.6,"Blanco County, Texas",63071, Texas,Blanco County
+48033,27,26,0.0,0.0,100.0,3.2,"Borden County, Texas",81985, Texas,Borden County
+48035,32,27,31.0,55.0,97.0,3.7,"Bosque County, Texas",50882, Texas,Bosque County
+48037,47,39,41.0,67.0,96.0,4.9,"Bowie County, Texas",47505, Texas,Bowie County
+48039,28,28,81.0,65.0,94.0,4.5,"Brazoria County, Texas",79270, Texas,Brazoria County
+48041,29,20,89.0,85.0,86.0,2.8,"Brazos County, Texas",46839, Texas,Brazos County
+48043,26,27,58.0,64.0,99.0,3.4,"Brewster County, Texas",43894, Texas,Brewster County
+48045,26,29,71.0,0.0,100.0,3.9,"Briscoe County, Texas",42647, Texas,Briscoe County
+48049,39,34,65.0,50.0,97.0,3.7,"Brown County, Texas",45457, Texas,Brown County
+48051,38,25,50.0,39.0,94.0,3.6,"Burleson County, Texas",56235, Texas,Burleson County
+48053,31,27,63.0,47.0,93.0,2.9,"Burnet County, Texas",59238, Texas,Burnet County
+48055,39,27,59.0,28.0,90.0,3.6,"Caldwell County, Texas",52278, Texas,Caldwell County
+48057,31,23,55.0,51.0,93.0,4.1,"Calhoun County, Texas",55469, Texas,Calhoun County
+48059,35,30,55.0,7.0,94.0,3.4,"Callahan County, Texas",44602, Texas,Callahan County
+48061,31,25,66.0,49.0,90.0,6.2,"Cameron County, Texas",37132, Texas,Cameron County
+48063,28,25,60.0,86.0,98.0,4.9,"Camp County, Texas",42604, Texas,Camp County
+48067,37,34,36.0,27.0,97.0,5.1,"Cass County, Texas",45345, Texas,Cass County
+48069,27,22,49.0,13.0,97.0,2.9,"Castro County, Texas",45000, Texas,Castro County
+48071,28,26,70.0,10.0,98.0,5.4,"Chambers County, Texas",76850, Texas,Chambers County
+48073,43,34,47.0,40.0,91.0,4.1,"Cherokee County, Texas",46044, Texas,Cherokee County
+48075,24,27,74.0,142.0,94.0,2.5,"Childress County, Texas",40794, Texas,Childress County
+48077,32,33,19.0,38.0,97.0,3.2,"Clay County, Texas",51191, Texas,Clay County
+48079,25,22,48.0,35.0,98.0,4.2,"Cochran County, Texas",42798, Texas,Cochran County
+48083,25,27,69.0,59.0,91.0,4.0,"Coleman County, Texas",43981, Texas,Coleman County
+48085,28,20,90.0,95.0,97.0,3.3,"Collin County, Texas",94192, Texas,Collin County
+48089,27,33,57.0,47.0,80.0,3.3,"Colorado County, Texas",49504, Texas,Colorado County
+48091,30,21,84.0,69.0,94.0,3.2,"Comal County, Texas",75356, Texas,Comal County
+48093,26,25,15.0,44.0,99.0,3.6,"Comanche County, Texas",47893, Texas,Comanche County
+48095,28,25,70.0,37.0,93.0,3.6,"Concho County, Texas",43355, Texas,Concho County
+48097,24,27,52.0,33.0,95.0,3.1,"Cooke County, Texas",57646, Texas,Cooke County
+48099,42,24,64.0,23.0,95.0,4.1,"Coryell County, Texas",51440, Texas,Coryell County
+48101,22,23,84.0,0.0,80.0,4.3,"Cottle County, Texas",34375, Texas,Cottle County
+48103,25,20,92.0,21.0,95.0,3.8,"Crane County, Texas",70398, Texas,Crane County
+48105,27,22,18.0,28.0,95.0,3.0,"Crockett County, Texas",51152, Texas,Crockett County
+48107,29,24,32.0,34.0,94.0,4.5,"Crosby County, Texas",37899, Texas,Crosby County
+48111,36,24,93.0,69.0,99.0,2.0,"Dallam County, Texas",51250, Texas,Dallam County
+48113,30,24,96.0,69.0,84.0,3.7,"Dallas County, Texas",56854, Texas,Dallas County
+48115,29,28,68.0,23.0,99.0,4.3,"Dawson County, Texas",44657, Texas,Dawson County
+48117,27,20,81.0,11.0,88.0,2.8,"Deaf Smith County, Texas",51841, Texas,Deaf Smith County
+48119,34,25,69.0,19.0,98.0,3.4,"Delta County, Texas",46138, Texas,Delta County
+48121,25,20,94.0,63.0,95.0,3.2,"Denton County, Texas",83376, Texas,Denton County
+48123,27,34,60.0,54.0,97.0,3.1,"DeWitt County, Texas",53779, Texas,DeWitt County
+48125,24,24,37.0,45.0,96.0,4.2,"Dickens County, Texas",41618, Texas,Dickens County
+48127,33,30,68.0,38.0,79.0,3.0,"Dimmit County, Texas",27832, Texas,Dimmit County
+48129,28,23,78.0,30.0,98.0,3.4,"Donley County, Texas",43224, Texas,Donley County
+48133,35,29,53.0,33.0,96.0,3.4,"Eastland County, Texas",35325, Texas,Eastland County
+48135,32,30,71.0,59.0,81.0,2.7,"Ector County, Texas",60676, Texas,Ector County
+48137,27,28,3.0,0.0,98.0,2.8,"Edwards County, Texas",40313, Texas,Edwards County
+48139,38,27,66.0,40.0,93.0,3.3,"Ellis County, Texas",72213, Texas,Ellis County
+48141,29,21,82.0,48.0,87.0,4.2,"El Paso County, Texas",44597, Texas,El Paso County
+48143,26,28,65.0,55.0,62.0,3.1,"Erath County, Texas",48819, Texas,Erath County
+48145,40,35,45.0,11.0,97.0,3.9,"Falls County, Texas",38032, Texas,Falls County
+48147,30,31,39.0,20.0,98.0,3.1,"Fannin County, Texas",50761, Texas,Fannin County
+48149,22,23,58.0,36.0,97.0,2.8,"Fayette County, Texas",56297, Texas,Fayette County
+48151,23,22,4.0,26.0,100.0,3.3,"Fisher County, Texas",46827, Texas,Fisher County
+48153,35,22,83.0,68.0,95.0,5.2,"Floyd County, Texas",48555, Texas,Floyd County
+48155,28,23,41.0,0.0,100.0,2.9,"Foard County, Texas",46354, Texas,Foard County
+48157,29,21,89.0,85.0,94.0,4.0,"Fort Bend County, Texas",95561, Texas,Fort Bend County
+48159,37,34,8.0,28.0,97.0,4.1,"Franklin County, Texas",52944, Texas,Franklin County
+48161,35,40,35.0,31.0,96.0,5.8,"Freestone County, Texas",48731, Texas,Freestone County
+48163,25,24,41.0,20.0,87.0,2.9,"Frio County, Texas",42476, Texas,Frio County
+48165,34,28,36.0,24.0,97.0,2.6,"Gaines County, Texas",59032, Texas,Gaines County
+48167,34,28,84.0,73.0,92.0,4.6,"Galveston County, Texas",69369, Texas,Galveston County
+48169,23,22,13.0,15.0,84.0,3.0,"Garza County, Texas",55039, Texas,Garza County
+48171,29,30,71.0,116.0,92.0,2.5,"Gillespie County, Texas",58325, Texas,Gillespie County
+48173,24,22,0.0,0.0,100.0,2.0,"Glasscock County, Texas",75833, Texas,Glasscock County
+48177,31,26,40.0,38.0,91.0,3.0,"Gonzales County, Texas",53006, Texas,Gonzales County
+48179,34,30,92.0,40.0,95.0,3.9,"Gray County, Texas",47170, Texas,Gray County
+48181,30,34,67.0,47.0,93.0,3.2,"Grayson County, Texas",54370, Texas,Grayson County
+48183,30,28,82.0,87.0,93.0,4.1,"Gregg County, Texas",49287, Texas,Gregg County
+48185,37,36,40.0,21.0,95.0,4.1,"Grimes County, Texas",50298, Texas,Grimes County
+48187,34,23,65.0,35.0,95.0,3.1,"Guadalupe County, Texas",70931, Texas,Guadalupe County
+48189,32,31,74.0,29.0,91.0,4.8,"Hale County, Texas",47080, Texas,Hale County
+48191,26,27,43.0,33.0,97.0,4.3,"Hall County, Texas",32921, Texas,Hall County
+48193,25,28,46.0,95.0,93.0,3.3,"Hamilton County, Texas",47500, Texas,Hamilton County
+48195,25,22,88.0,37.0,98.0,2.3,"Hansford County, Texas",39229, Texas,Hansford County
+48197,32,32,34.0,100.0,100.0,3.6,"Hardeman County, Texas",42238, Texas,Hardeman County
+48199,37,30,56.0,19.0,96.0,5.2,"Hardin County, Texas",59105, Texas,Hardin County
+48201,28,23,91.0,59.0,87.0,4.4,"Harris County, Texas",60146, Texas,Harris County
+48203,44,31,63.0,29.0,93.0,4.4,"Harrison County, Texas",51202, Texas,Harrison County
+48207,27,32,61.0,52.0,95.0,3.8,"Haskell County, Texas",46013, Texas,Haskell County
+48209,30,19,72.0,43.0,88.0,3.0,"Hays County, Texas",65935, Texas,Hays County
+48211,32,29,86.0,99.0,98.0,2.1,"Hemphill County, Texas",63778, Texas,Hemphill County
+48213,37,35,63.0,31.0,96.0,3.7,"Henderson County, Texas",45798, Texas,Henderson County
+48215,34,22,59.0,45.0,90.0,6.6,"Hidalgo County, Texas",38398, Texas,Hidalgo County
+48217,32,38,52.0,22.0,97.0,3.6,"Hill County, Texas",48823, Texas,Hill County
+48219,29,34,66.0,56.0,88.0,3.1,"Hockley County, Texas",48116, Texas,Hockley County
+48221,29,27,73.0,53.0,94.0,3.7,"Hood County, Texas",59049, Texas,Hood County
+48223,31,35,41.0,25.0,95.0,3.4,"Hopkins County, Texas",51877, Texas,Hopkins County
+48225,25,32,56.0,17.0,96.0,3.7,"Houston County, Texas",34297, Texas,Houston County
+48227,40,25,82.0,31.0,90.0,3.3,"Howard County, Texas",51528, Texas,Howard County
+48231,33,35,65.0,29.0,94.0,3.8,"Hunt County, Texas",51928, Texas,Hunt County
+48233,31,35,84.0,33.0,95.0,5.0,"Hutchinson County, Texas",50651, Texas,Hutchinson County
+48235,25,25,75.0,0.0,100.0,3.1,"Irion County, Texas",54706, Texas,Irion County
+48237,33,29,60.0,45.0,96.0,2.5,"Jack County, Texas",51700, Texas,Jack County
+48239,33,26,50.0,7.0,98.0,3.3,"Jackson County, Texas",60276, Texas,Jackson County
+48241,41,28,38.0,39.0,95.0,6.5,"Jasper County, Texas",46088, Texas,Jasper County
+48243,27,24,48.0,44.0,100.0,3.0,"Jeff Davis County, Texas",53194, Texas,Jeff Davis County
+48245,35,32,65.0,57.0,88.0,6.3,"Jefferson County, Texas",48463, Texas,Jefferson County
+48247,25,20,47.0,19.0,96.0,5.7,"Jim Hogg County, Texas",32049, Texas,Jim Hogg County
+48249,32,26,47.0,27.0,86.0,5.4,"Jim Wells County, Texas",42005, Texas,Jim Wells County
+48251,39,28,71.0,46.0,95.0,3.4,"Johnson County, Texas",62066, Texas,Johnson County
+48253,38,26,44.0,30.0,98.0,4.8,"Jones County, Texas",45694, Texas,Jones County
+48255,29,21,51.0,26.0,93.0,2.8,"Karnes County, Texas",52252, Texas,Karnes County
+48257,36,28,59.0,32.0,96.0,3.5,"Kaufman County, Texas",65390, Texas,Kaufman County
+48259,23,24,76.0,86.0,98.0,2.9,"Kendall County, Texas",82390, Texas,Kendall County
+48263,26,23,0.0,0.0,100.0,2.4,"Kent County, Texas",45926, Texas,Kent County
+48265,24,26,71.0,85.0,94.0,3.2,"Kerr County, Texas",52473, Texas,Kerr County
+48267,31,28,61.0,68.0,100.0,3.1,"Kimble County, Texas",42500, Texas,Kimble County
+48269,23,21,1.0,0.0,100.0,2.8,"King County, Texas",65125, Texas,King County
+48273,34,21,51.0,45.0,89.0,5.0,"Kleberg County, Texas",42021, Texas,Kleberg County
+48275,25,22,39.0,27.0,99.0,3.6,"Knox County, Texas",46146, Texas,Knox County
+48277,34,37,64.0,50.0,96.0,3.8,"Lamar County, Texas",43562, Texas,Lamar County
+48279,26,28,69.0,23.0,98.0,4.4,"Lamb County, Texas",43396, Texas,Lamb County
+48281,30,25,49.0,43.0,99.0,3.7,"Lampasas County, Texas",58194, Texas,Lampasas County
+48285,36,34,62.0,70.0,99.0,3.2,"Lavaca County, Texas",53021, Texas,Lavaca County
+48287,41,35,47.0,23.0,95.0,3.1,"Lee County, Texas",55000, Texas,Lee County
+48291,34,38,55.0,24.0,91.0,5.8,"Liberty County, Texas",49850, Texas,Liberty County
+48293,30,30,61.0,34.0,95.0,4.7,"Limestone County, Texas",42680, Texas,Limestone County
+48297,29,21,34.0,8.0,92.0,3.8,"Live Oak County, Texas",55766, Texas,Live Oak County
+48299,27,27,80.0,80.0,96.0,3.7,"Llano County, Texas",52178, Texas,Llano County
+48303,35,27,90.0,82.0,91.0,3.1,"Lubbock County, Texas",50473, Texas,Lubbock County
+48305,29,25,23.0,51.0,96.0,3.2,"Lynn County, Texas",43524, Texas,Lynn County
+48307,35,32,54.0,50.0,99.0,3.3,"McCulloch County, Texas",45329, Texas,McCulloch County
+48309,33,24,66.0,74.0,91.0,3.6,"McLennan County, Texas",48199, Texas,McLennan County
+48311,26,30,23.0,0.0,100.0,1.9,"McMullen County, Texas",68750, Texas,McMullen County
+48313,27,28,0.0,21.0,98.0,4.4,"Madison County, Texas",49428, Texas,Madison County
+48317,36,27,38.0,36.0,100.0,2.4,"Martin County, Texas",69722, Texas,Martin County
+48321,38,34,67.0,38.0,93.0,6.1,"Matagorda County, Texas",45500, Texas,Matagorda County
+48323,38,30,80.0,26.0,92.0,8.1,"Maverick County, Texas",38035, Texas,Maverick County
+48325,34,25,54.0,28.0,95.0,3.5,"Medina County, Texas",61059, Texas,Medina County
+48327,34,25,77.0,47.0,95.0,4.0,"Menard County, Texas",40606, Texas,Menard County
+48329,35,25,66.0,36.0,89.0,2.1,"Midland County, Texas",78888, Texas,Midland County
+48331,35,31,61.0,8.0,95.0,5.5,"Milam County, Texas",47081, Texas,Milam County
+48333,30,29,24.0,41.0,63.0,3.5,"Mills County, Texas",41827, Texas,Mills County
+48335,31,24,4.0,47.0,94.0,4.4,"Mitchell County, Texas",49670, Texas,Mitchell County
+48337,31,33,41.0,31.0,98.0,3.2,"Montague County, Texas",51774, Texas,Montague County
+48339,26,22,84.0,62.0,93.0,3.8,"Montgomery County, Texas",77416, Texas,Montgomery County
+48341,28,25,77.0,45.0,99.0,2.7,"Moore County, Texas",51527, Texas,Moore County
+48343,38,33,38.0,16.0,92.0,6.6,"Morris County, Texas",42961, Texas,Morris County
+48345,28,23,25.0,0.0,80.0,3.6,"Motley County, Texas",43750, Texas,Motley County
+48347,36,29,63.0,70.0,91.0,3.9,"Nacogdoches County, Texas",43598, Texas,Nacogdoches County
+48349,30,25,53.0,45.0,95.0,3.7,"Navarro County, Texas",47920, Texas,Navarro County
+48353,36,37,76.0,27.0,93.0,3.3,"Nolan County, Texas",44346, Texas,Nolan County
+48355,33,25,95.0,83.0,90.0,4.7,"Nueces County, Texas",55048, Texas,Nueces County
+48357,24,40,88.0,40.0,97.0,2.8,"Ochiltree County, Texas",49928, Texas,Ochiltree County
+48361,41,38,64.0,21.0,91.0,5.7,"Orange County, Texas",55700, Texas,Orange County
+48363,32,30,47.0,42.0,96.0,3.4,"Palo Pinto County, Texas",45979, Texas,Palo Pinto County
+48365,37,26,39.0,34.0,95.0,4.2,"Panola County, Texas",51569, Texas,Panola County
+48367,35,30,53.0,44.0,96.0,3.1,"Parker County, Texas",74625, Texas,Parker County
+48369,40,31,74.0,20.0,98.0,2.3,"Parmer County, Texas",54184, Texas,Parmer County
+48371,46,26,55.0,45.0,70.0,3.6,"Pecos County, Texas",52282, Texas,Pecos County
+48373,44,31,40.0,59.0,96.0,5.0,"Polk County, Texas",46182, Texas,Polk County
+48375,37,28,71.0,75.0,90.0,2.9,"Potter County, Texas",43157, Texas,Potter County
+48377,30,30,95.0,28.0,92.0,7.0,"Presidio County, Texas",27061, Texas,Presidio County
+48379,31,21,52.0,17.0,91.0,3.5,"Rains County, Texas",49872, Texas,Rains County
+48381,27,27,92.0,60.0,96.0,2.6,"Randall County, Texas",67397, Texas,Randall County
+48383,28,20,93.0,54.0,88.0,2.5,"Reagan County, Texas",70478, Texas,Reagan County
+48385,26,26,75.0,29.0,74.0,5.0,"Real County, Texas",34813, Texas,Real County
+48387,39,40,36.0,16.0,98.0,5.4,"Red River County, Texas",37955, Texas,Red River County
+48389,28,26,72.0,39.0,92.0,2.1,"Reeves County, Texas",58384, Texas,Reeves County
+48391,22,27,39.0,28.0,97.0,4.7,"Refugio County, Texas",48112, Texas,Refugio County
+48393,23,21,60.0,0.0,100.0,3.0,"Roberts County, Texas",73854, Texas,Roberts County
+48395,37,35,48.0,6.0,94.0,4.1,"Robertson County, Texas",54201, Texas,Robertson County
+48397,25,32,90.0,79.0,97.0,3.2,"Rockwall County, Texas",94767, Texas,Rockwall County
+48399,29,29,48.0,68.0,96.0,3.1,"Runnels County, Texas",41732, Texas,Runnels County
+48401,39,32,41.0,21.0,95.0,4.1,"Rusk County, Texas",52329, Texas,Rusk County
+48403,32,27,85.0,19.0,95.0,7.9,"Sabine County, Texas",33257, Texas,Sabine County
+48405,40,26,50.0,24.0,96.0,6.5,"San Augustine County, Texas",35509, Texas,San Augustine County
+48407,30,26,74.0,11.0,91.0,5.0,"San Jacinto County, Texas",44658, Texas,San Jacinto County
+48409,40,34,48.0,27.0,93.0,6.3,"San Patricio County, Texas",55229, Texas,San Patricio County
+48411,25,27,47.0,34.0,99.0,3.0,"San Saba County, Texas",44698, Texas,San Saba County
+48415,30,34,40.0,53.0,90.0,3.4,"Scurry County, Texas",55889, Texas,Scurry County
+48417,28,25,80.0,30.0,100.0,2.3,"Shackelford County, Texas",45187, Texas,Shackelford County
+48419,27,31,42.0,20.0,93.0,4.3,"Shelby County, Texas",40764, Texas,Shelby County
+48423,34,28,72.0,102.0,92.0,3.6,"Smith County, Texas",53511, Texas,Smith County
+48425,29,25,71.0,68.0,88.0,4.2,"Somervell County, Texas",53162, Texas,Somervell County
+48427,38,28,25.0,20.0,93.0,10.1,"Starr County, Texas",29294, Texas,Starr County
+48429,31,33,56.0,32.0,88.0,3.6,"Stephens County, Texas",45336, Texas,Stephens County
+48431,25,23,55.0,0.0,100.0,3.3,"Sterling County, Texas",59286, Texas,Sterling County
+48433,27,23,53.0,72.0,100.0,3.5,"Stonewall County, Texas",48000, Texas,Stonewall County
+48435,33,22,85.0,80.0,96.0,3.8,"Sutton County, Texas",60543, Texas,Sutton County
+48437,24,30,54.0,13.0,92.0,4.3,"Swisher County, Texas",38418, Texas,Swisher County
+48439,30,25,94.0,58.0,91.0,3.5,"Tarrant County, Texas",64874, Texas,Tarrant County
+48441,32,28,84.0,71.0,90.0,3.2,"Taylor County, Texas",50818, Texas,Taylor County
+48443,26,30,0.0,0.0,92.0,3.4,"Terrell County, Texas",33750, Texas,Terrell County
+48445,34,27,75.0,31.0,96.0,4.1,"Terry County, Texas",44975, Texas,Terry County
+48447,26,26,57.0,65.0,96.0,3.4,"Throckmorton County, Texas",44196, Texas,Throckmorton County
+48449,31,35,49.0,55.0,97.0,5.0,"Titus County, Texas",46698, Texas,Titus County
+48451,29,25,77.0,66.0,93.0,3.2,"Tom Green County, Texas",51675, Texas,Tom Green County
+48453,22,17,93.0,85.0,89.0,2.8,"Travis County, Texas",71767, Texas,Travis County
+48455,40,29,81.0,14.0,94.0,5.1,"Trinity County, Texas",40407, Texas,Trinity County
+48457,33,34,52.0,23.0,96.0,6.6,"Tyler County, Texas",43936, Texas,Tyler County
+48459,31,30,26.0,29.0,95.0,4.2,"Upshur County, Texas",50906, Texas,Upshur County
+48461,24,22,66.0,55.0,93.0,3.4,"Upton County, Texas",52257, Texas,Upton County
+48463,31,30,77.0,44.0,89.0,4.3,"Uvalde County, Texas",41752, Texas,Uvalde County
+48465,25,24,82.0,28.0,83.0,4.3,"Val Verde County, Texas",45521, Texas,Val Verde County
+48467,26,27,37.0,18.0,92.0,3.5,"Van Zandt County, Texas",51935, Texas,Van Zandt County
+48469,36,30,79.0,78.0,87.0,3.8,"Victoria County, Texas",55631, Texas,Victoria County
+48471,36,31,77.0,28.0,77.0,4.2,"Walker County, Texas",41855, Texas,Walker County
+48473,36,32,24.0,12.0,95.0,4.3,"Waller County, Texas",57654, Texas,Waller County
+48475,42,31,82.0,26.0,95.0,2.6,"Ward County, Texas",64630, Texas,Ward County
+48477,30,35,61.0,60.0,91.0,3.7,"Washington County, Texas",56237, Texas,Washington County
+48479,38,29,88.0,32.0,93.0,3.8,"Webb County, Texas",42293, Texas,Webb County
+48481,37,27,63.0,38.0,96.0,3.7,"Wharton County, Texas",49619, Texas,Wharton County
+48483,26,25,63.0,37.0,95.0,3.2,"Wheeler County, Texas",49352, Texas,Wheeler County
+48485,35,31,69.0,72.0,97.0,3.4,"Wichita County, Texas",46575, Texas,Wichita County
+48487,34,29,29.0,47.0,85.0,4.1,"Wilbarger County, Texas",48773, Texas,Wilbarger County
+48489,40,29,34.0,37.0,88.0,9.9,"Willacy County, Texas",29944, Texas,Willacy County
+48491,30,20,87.0,69.0,95.0,3.1,"Williamson County, Texas",83679, Texas,Williamson County
+48493,34,34,32.0,49.0,94.0,3.1,"Wilson County, Texas",72445, Texas,Wilson County
+48495,37,26,98.0,26.0,99.0,2.8,"Winkler County, Texas",59167, Texas,Winkler County
+48497,33,31,38.0,41.0,97.0,3.4,"Wise County, Texas",61709, Texas,Wise County
+48499,28,32,39.0,47.0,95.0,4.2,"Wood County, Texas",48534, Texas,Wood County
+48501,33,28,67.0,35.0,98.0,2.8,"Yoakum County, Texas",68814, Texas,Yoakum County
+48503,34,29,60.0,67.0,97.0,3.2,"Young County, Texas",47194, Texas,Young County
+48505,31,20,45.0,7.0,90.0,5.6,"Zapata County, Texas",31113, Texas,Zapata County
+48507,24,20,59.0,17.0,92.0,9.5,"Zavala County, Texas",30988, Texas,Zavala County
