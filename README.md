@@ -38,10 +38,17 @@ In order to make valid plots of multi-variate data, a combination of Python libr
 * MODELLING OBESITY RATES
 Preliminarily, predictive models were constructed and refined using a sample of the ~350 counties of the three most populous states in the United States: California, Texas, and Florida 
 When creating predictive models using multiple regressions, it is important to remember that the coefficient of determination, the Multiple R^2 is merely one overall number representing a model's ability to correctly predict all criterion values within the dataset. When the first model was tested, all six proposed predictors were used
- which produced an extraordinary Multiple R of 0.98, and an F-value of 
+ which produced a Multiple R of 0.98 (F=2886, p<.01. However, this model was also tested against all counties of the US which showed that the model was unstable likely due to overfitting. A new model took in the three best predictors from the first model: Physically Inactive Rate (p<.05), Median Income(p<.05), and Unemployment Rate (p<.05).
+ The New three-predictor model (R^2=0.399, p<.01) was then tested against the full dataset ad performed respectably with less instability in the coefficients. This reduced model was then used to guide the estraction of permutations of two-predictor models for plotting. 
+ 
 * MAIN EFFECTS
-The six predictors of interest 
+Of the six predictors of interest: Those that became part of the reduced model could reliably predict variations in obesity rate when considered independently. Physical Inactivity predicted a significant increase in obesity rate (95%CI: .459-.639) for every percentage point increase.  Unemployment Rate did the same (95% CI: 0.351-0.956); but this was found to be largely due to the near-nonexistence of variation in unemployment rates across the US (Plot 2.3). Moreover, as the next section discusses, significant interaction effects were found in the predictors which means that these regression coefficients should be taken with caution. 
+
 * NOTEABLE INTERACTION EFFECTS
+In almost every iterration of Movat models, statistcal analysis pointed to the possible of multicollinearities. Multiple regression can make predictions on the assuption that a predictor is acting without the influence of other predictors. This assumption cannot be accepted as true when multicollinearity is at work. To check for interaction effects due to collinearity, five two-predictor models were frmed and plotted.
+Plot 3.5 considers a model where Physical Inactivity Rate works in tandem with Access to Exercise oppurtunities. This plot shows that regressing from Access to Exercise Rates may not always be accurate as its influence on obesity rate is mediated by  Physical Inactivity Rates. Simply put. Access ro Exercise Oppurtunities doesn't really predict Obesity Rates when people are unable or unwilling to use such oppurtunities. 
+Plot 3.1 considers the influence of Physical Inactivity against that of Median Income. While both appear to predict a great deal of variability in Obesity Rates, the influence of Physical Inactivity appears to diminish in medium to high income counties as opposed to lower-income counties. However, it's not clear how much of this is genuine interaction; and how much is caused by the simple fact that there are fewer higher-income counties than lower-income ones. 
+Plot 3.2 is a more straightforward figure plotting the interaction between High School Graduation Rates and Access to Primary Care Physicians. It shouldn't be surprising that obesity rates are lower in counties with high graduation rates and high physician access. However, the influence of High school graduation rates appears to increase as primary care physician access rate decreases. It appears that expert opinion matters more in mitigating obesity rates when people are less equipped with the education to make healthier decisions on their own. 
 
 ## CONCLUSIONS AND RECOMMENDATIONS
 
