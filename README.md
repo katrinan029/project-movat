@@ -24,7 +24,7 @@ b.) The predictors of interest varired sufficiently enough to make their relatio
 c.) county-level data would be a valid proxyfor individual data that wasn't available;
 d.) the variables abvoe would be valid representations of the phenomena that they were being used as proxies for (e,g. BMI classification for obesity rates, high school graduation rate for education, etc.);
 e.) relationshps with respect to statistical variability point to, if not necesarilly prove, valid causal relationships.
-
+Should any of these assumptions be proven false, it would severely limit the validity of this analysis. 
 
 ## METHODOLOGY
 * THE MULTIPLE REGRESSION METHOD
