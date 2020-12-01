@@ -30,16 +30,17 @@ Should any of these assumptions be proven false, it would severely limit the val
 * THE MULTIPLE REGRESSION METHOD
 Multiple linear regression is an excellent exploratory method for determining the existence and intensity of relationships a criterion variable shares with several predictor variables. At its face, a multiple regression can explain the sources of variability in a dataset; and the contributions of each source to overall variability; as well as an estimate for predicted changes in the criterion based on changes in any single predictor. Multiple regression is particularly useful for producing predictive models that can be tested against new data to show how well a model performs.  Project Movat used a Python module called Stats models to perform these multiple regressions and concurrent modelling. In order to handle the large amount of data involved, a Python module called Pandas DataFrames was used. 
 * DATA COLLECTION
-Project Movat relied on existing datasets to perform its analyses. Countyhealth rankings,org provided a good aggregation platform for obtaining county-level data on a variety of indicators. For other predictors, we used an Application Program Interface 
+Project Movat relied on existing datasets to perform its analyses. Countyhealth rankings,org provided a good aggregation platform for obtaining county-level data on a variety of indicators. For other predictors, we used an Application Program Interface. 
 * PLOTTING THE DATA
-In order to make valid plots of multi-variate data, a combination of Python libraries was used. The first was Matplotlib, which allows for easy plotting of data; and the second was “mpl toolkits” whose mpplot3d functionality allowed for the plotting of multivariate data
+In order to make valid plots of multi-variate data, a combination of Python libraries was used. The first was Matplotlib, which allows for easy plotting of data; and the second was “mpl toolkits” whose mpplot 3D-functionality allowed for the plotting of multivariate data. 
 
 ## RESULTS AND DISCUSSION
 * MODELLING OBESITY RATES
 Preliminarily, predictive models were constructed and refined using a sample of the ~350 counties of the three most populous states in the United States: California, Texas, and Florida 
-When creating predictive models using multiple regressions, it is important to remember that the coefficient of determination, the Multiple R^2 is merely one overall number representing a model's ability to correctly predict all criterion values within the dataset. When the first model was tested, all seven proposed predictors were used
-
+When creating predictive models using multiple regressions, it is important to remember that the coefficient of determination, the Multiple R^2 is merely one overall number representing a model's ability to correctly predict all criterion values within the dataset. When the first model was tested, all six proposed predictors were used
+ which produced an extraordinary Multiple R of 0.98, and an F-value of 
 * MAIN EFFECTS
+The six predictors of interest 
 * NOTEABLE INTERACTION EFFECTS
 
 ## CONCLUSIONS AND RECOMMENDATIONS
