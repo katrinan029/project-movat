@@ -23,16 +23,16 @@ a.) the predictors of interest had direct and consistent relationships with the 
 b.) The predictors of interest varired sufficiently enough to make their relationships with the criterion meaningful;
 c.) county-level data would be a valid proxyfor individual data that wasn't available;
 d.) the variables abvoe would be valid representations of the phenomena that they were being used as proxies for (e,g. BMI classification for obesity rates, high school graduation rate for education, etc.);
-e.) relationshps with respect to statistical variability point to valid causal relationships.
+e.) relationshps with respect to statistical variability point to, if not necesarilly prove, valid causal relationships.
 
 
 ## METHODOLOGY
 * THE MULTIPLE REGRESSION METHOD
-Multiple linear regression is an excellent exploratory method for determining the existence and intensity of relationships a criterion variable shares with several predictor variables. At its face, a multiple regression can explain the sources of variability in a dataset; and the contributions of each source to pverall variability; as well as an estimate for predicted changes in the criterion based on changes in any single predictor. Multiple regression is particularly useful for producing predictive modelss that can be tested against new data to show how well a model performs.  Project Movat used a Python module called Statsmodels to perform these multipl regressions and concurrent modelling. 
+Multiple linear regression is an excellent exploratory method for determining the existence and intensity of relationships a criterion variable shares with several predictor variables. At its face, a multiple regression can explain the sources of variability in a dataset; and the contributions of each source to pverall variability; as well as an estimate for predicted changes in the criterion based on changes in any single predictor. Multiple regression is particularly useful for producing predictive modelss that can be tested against new data to show how well a model performs.  Project Movat used a Python module called Statsmodels to perform these multiple regressions and concurrent modelling. 
 * DATA COLLECTION
-Project Movat relied on existing datasets to perform its analyses. Countyhealth rankings,org provided a good aggregation platform for obtaining county-level data on a varirty of indicators. For other predictors, we usedan Application Program Interface 
+Project Movat relied on existing datasets to perform its analyses. Countyhealth rankings,org provided a good aggregation platform for obtaining county-level data on a varirty of indicators. For other predictors, we used an Application Program Interface 
 * PLOTTING THE DATA
-
+In order to make valid plots of multi-variate data, we relied on a combination of Python libraries. Thr first was Matplotlib
 
 ## RESULTS AND DISCUSSION
 * MODELLING OBESITY RATES
