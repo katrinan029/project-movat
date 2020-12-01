@@ -28,11 +28,11 @@ Should any of these assumptions be proven false, it would severely limit the val
 
 ## METHODOLOGY
 * THE MULTIPLE REGRESSION METHOD
-Multiple linear regression is an excellent exploratory method for determining the existence and intensity of relationships a criterion variable shares with several predictor variables. At its face, a multiple regression can explain the sources of variability in a dataset; and the contributions of each source to pverall variability; as well as an estimate for predicted changes in the criterion based on changes in any single predictor. Multiple regression is particularly useful for producing predictive modelss that can be tested against new data to show how well a model performs.  Project Movat used a Python module called Statsmodels to perform these multiple regressions and concurrent modelling. 
+Multiple linear regression is an excellent exploratory method for determining the existence and intensity of relationships a criterion variable shares with several predictor variables. At its face, a multiple regression can explain the sources of variability in a dataset; and the contributions of each source to pverall variability; as well as an estimate for predicted changes in the criterion based on changes in any single predictor. Multiple regression is particularly useful for producing predictive modelss that can be tested against new data to show how well a model performs.  Project Movat used a Python module called Statsmodels to perform these multiple regressions and concurrent modelling. In order to handle the  large amount of data involved, a Python module called Pandas DataFrames was used. 
 * DATA COLLECTION
 Project Movat relied on existing datasets to perform its analyses. Countyhealth rankings,org provided a good aggregation platform for obtaining county-level data on a varirty of indicators. For other predictors, we used an Application Program Interface 
 * PLOTTING THE DATA
-In order to make valid plots of multi-variate data, we relied on a combination of Python libraries. Thr first was Matplotlib
+In order to make valid plots of multi-variate data,  a combination of Python libraries was used. The first was Matplotlib, which allows for easy plotting of data
 
 ## RESULTS AND DISCUSSION
 * MODELLING OBESITY RATES
