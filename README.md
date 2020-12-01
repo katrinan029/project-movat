@@ -19,11 +19,11 @@ bad that American food companies have ended up up exporting this health crisis t
  
 * SCOPE AND LIMITATIONS
 In using the above variables to maodel obsity data in the United States, the Movat team necesarilly had to make certain assumptions: 
-a.) the predictors of interest had direct and consistent relationships with the criterion variable.
-b.) The predictors of interest varired sufficiently enough to make their relationships with the criterion meaningful. 
-c.) that county-level data would be a valid proxyfor individual data that wasn't available. 
-d.) that the variables abve would be valid representations of the phenomena that they were being used as proxies for (e,g. BMI classification for obesity rates, high school graduation rate for education, etc.)
-e.) that relationshps with respect to statistical variability point to valid causal relationships
+a.) the predictors of interest had direct and consistent relationships with the criterion variable;
+b.) The predictors of interest varired sufficiently enough to make their relationships with the criterion meaningful;
+c.) county-level data would be a valid proxyfor individual data that wasn't available;
+d.) the variables abvoe would be valid representations of the phenomena that they were being used as proxies for (e,g. BMI classification for obesity rates, high school graduation rate for education, etc.);
+e.) relationshps with respect to statistical variability point to valid causal relationships.
 
 
 ## METHODOLOGY
